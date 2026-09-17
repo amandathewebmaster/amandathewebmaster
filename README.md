@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm Amanda, a weird transfem and a webmaster who owns https://amandassmallcorner.neocities.org
+
+## 
 <!--
 **amandathewebmaster/amandathewebmaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
